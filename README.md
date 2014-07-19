@@ -13,7 +13,7 @@ Your program should accept an input file as a command line argument, and print a
 1 M 3 G 5 G
 2 G 3 M 4 G
 5 M
-``
+``` 
 
 The first line specifies how many colors there are.
 
@@ -32,7 +32,7 @@ An example of a file which has no solution is:
 1
 1 G
 1 M
-``
+```
 Your program should print
 
 No solution exists
@@ -68,4 +68,4 @@ One more example.  The input:
 ...should produce
 ```
 M M
-``
+```
